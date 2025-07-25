@@ -13,6 +13,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - .gitignore configuration
 - CHANGELOG.md initialization
 - Go module setup
+- GitHub Actions CI/CD pipeline
+- PR and Issue templates
+- Initial server implementation
+- Test files
+- Project documentation (overview, management)
+- Development guidelines
+- API documentation template
 
 ### Changed
 
