@@ -47,6 +47,35 @@ This project is a game server built with Go programming language, integrated wit
    go build ./cmd/...
    ```
 
+### Running Tests
+
+To run all tests:
+```bash
+go test ./...
+```
+
+To run tests with coverage:
+```bash
+go test -cover ./...
+```
+
+To run tests with verbose output:
+```bash
+go test -v ./...
+```
+
+### Running the Server
+
+To run the game server:
+```bash
+go run cmd/server/main.go
+```
+
+The server will start on port 8080 by default. You can change the port by setting the PORT environment variable:
+```bash
+PORT=3000 go run cmd/server/main.go
+```
+
 ## Development
 
 This project follows the GitFlow workflow with the following branch naming conventions:
