@@ -76,6 +76,20 @@ The server will start on port 8080 by default. You can change the port by settin
 PORT=3000 go run cmd/server/main.go
 ```
 
+### Running the Turn-Based Combat Demo
+
+To run the turn-based combat demo:
+```bash
+go run cmd/battle_demo/main.go
+```
+
+This demo showcases the turn-based combat system with:
+- Character creation (Warrior, Mage, Archer)
+- Turn-based battle mechanics
+- Skill usage
+- Status effects
+- Battle rewards
+
 ## Development
 
 This project follows the GitFlow workflow with the following branch naming conventions:
