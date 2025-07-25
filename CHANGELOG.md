@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Core game server implementation (player, room, game modules)
 - Unit tests for all core modules
 - Project summary report
+- Final project completion report
 
 ### Changed
 - README.md with running and testing instructions
