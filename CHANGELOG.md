@@ -24,6 +24,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Unit tests for all core modules
 - Project summary report
 - Final project completion report
+- Turn-based combat system (character, skill, battle modules)
+- Comprehensive tests for combat system
+- Demo application for showcasing combat system
 
 ### Changed
 - README.md with running and testing instructions
